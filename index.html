@@ -1,11 +1,11 @@
- <!doctype html>
- <html>
-  <head>
-  <title>Hello</title>
-  </head>
- 
- <body>
-  <h1>Hello!</h1>
- </body>
-</html>
+---
+layout: layout
+title: "徐涛[知行合一]"
+---
 
+<h2 style="margin: 20px 0">Blog Posts</h2>
+<ul id="postlist">
+{% for post in site.posts %}
+<li><a href="{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date_to_string }}</span></li>
+{% endfor %}
+</ul>
