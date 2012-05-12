@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 【议】小工作量完成大目标
+title: 【译】小工作量完成大目标
 ---
 
-【议】小工作量完成大目标
+【译】小工作量完成大目标
 ========
 </br>
 来自[Stepcase Lifehack](http://www.lifehack.org/)
