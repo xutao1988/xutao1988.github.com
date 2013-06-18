@@ -4,22 +4,22 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lee Jarvis</title>
- <link href="http://lee.jarvis.co/atom.xml" rel="self"/>
- <link href="http://lee.jarvis.co/"/>
+ <title>{{ site.name }}</title>
+ <link href="http://xutao.me/atom.xml" rel="self"/>
+ <link href="http://xutao.me.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://lee.jarvis.co/</id>
+ <id>http://xutao.me/</id>
  <author>
-   <name>Lee Jarvis</name>
-   <email>lee@jarvis.co</email>
+   <name>Xu Tao</name>
+   <email>xutao1988@gmail.com</email>
  </author>
 
- {% for post in site.posts %}
+ {% for post in site.posts limit:10 %}
  <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://lee.jarvis.co{{ post.url }}"/>
+   <title>{{ post.title | xml_escape }}</title>
+   <link href="http://xutao.me{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://lee.jarvis.co{{ post.id }}</id>
+   {% if post.guid %}<id>{{ post.guid }}</id>{% else %}<id>http://lhzhang.com{{ post.id }}</id>{% endif %}
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
