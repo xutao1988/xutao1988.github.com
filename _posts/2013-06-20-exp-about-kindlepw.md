@@ -1,7 +1,8 @@
 ﻿---
 layout: post
-title: 入手Kindle PaperWhite
+title: 入手Kindle Paperwhite 
 ---
+
 
 
 许久没有在这个博客上更新文章，结果连续两篇文章都是在讲Kindle，弄得我跟做营销似的，其实完全不是这样，深自反省，在这个博客上更新小文，当做我的一种休闲和爱好，不再因追求完美而停滞不前了。  
