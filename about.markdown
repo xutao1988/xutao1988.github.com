@@ -5,18 +5,18 @@ layout: page
 
 a
 
-> Minimalist | Appleist | Unixer | Coder
+> Android Developmentor | Writer | GTDer | Coder
 
 who involved in 
 
-> [github](https://github.com/waynezhang)
+> [github](https://github.com/xutao1988/)
 
 mail 
 
-> echo srvpqxfbyqfvpdtkbjwt | tr yxwvtsrqpkjfdb zuonmlihgeca@.
+> xutao1988@gmail.com
 
 or follow 
 
-> [@o_lll](https://twitter.com/#!/o_lll)
+> [新浪微博](http://weibo.com/scfd)
 
 to reach me
