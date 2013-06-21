@@ -1,11 +1,10 @@
 ---
+title: '离开wordpress,拥抱jekyll' 
 layout: post
-title: 离开wordpress,拥抱jekyll 
----
+tags:
+    - 技术
 
-离开wordpress,拥抱jekyll
-========
-</br>
+---
 
 为自己买下[www.xutao1988.com](www.xutao1988.com)这个域名和相应的空间已经快有一年了。这两天回顾一下之前写过的博文，只有可怜的十来篇。按照道理来说，我自己是知道写作的重要性的，可知道归知道，实际的数据摆在这里，再好听的道理和哲理说出来都很无力。
 
