@@ -3,6 +3,6 @@ title: 404
 layout: page
 ---
 
-Nothing found :(
+Nothing found here:(
 
 But you still can have a [look around](/index.html)
